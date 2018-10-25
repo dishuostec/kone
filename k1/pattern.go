@@ -10,8 +10,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/xjdrew/kone/geoip"
-	"github.com/xjdrew/kone/tcpip"
+	"github.com/dishuostec/kone/geoip"
+	"github.com/dishuostec/kone/tcpip"
 )
 
 const (

@@ -8,8 +8,8 @@ package k1
 import (
 	"net"
 
-	. "github.com/xjdrew/kone/internal"
-	"github.com/xjdrew/kone/tcpip"
+	. "github.com/dishuostec/kone/internal"
+	"github.com/dishuostec/kone/tcpip"
 )
 
 var logger = GetLogger()

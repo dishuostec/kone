@@ -9,7 +9,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/xjdrew/kone/tcpip"
+	"github.com/dishuostec/kone/tcpip"
 )
 
 func checkCases(t *testing.T, proxy string, pattern Pattern, cases map[interface{}]bool) {

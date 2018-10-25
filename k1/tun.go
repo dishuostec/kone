@@ -10,7 +10,7 @@ import (
 
 	"github.com/songgao/water"
 
-	"github.com/xjdrew/kone/tcpip"
+	"github.com/dishuostec/kone/tcpip"
 )
 
 var MTU = 1500
